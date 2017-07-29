@@ -16,6 +16,9 @@
   ],
   "author": "Tianxiang Han",
   "license": "ISC",
+  "dependencies": {
+    "connect": "2.8"
+  },
   "bugs": {
     "url": "https://github.com/losthanKKK/homeServer/issues"
   },
