@@ -1,0 +1,23 @@
+{
+  "name": "homeserver",
+  "version": "1.0.0",
+  "description": "command-line webserver just like python -m SimpleHTTPServer 3000",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/losthanKKK/homeServer.git"
+  },
+  "keywords": [
+    "nodeJs",
+    "httpServer"
+  ],
+  "author": "Tianxiang Han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/losthanKKK/homeServer/issues"
+  },
+  "homepage": "https://github.com/losthanKKK/homeServer#readme"
+}
