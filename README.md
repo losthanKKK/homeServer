@@ -32,7 +32,8 @@ Installation
 Usage
 ===
 
-    homeserver defaults to 3000 and the current directory
+    homeserver
+Defaults to 3000 and the current directory
 
 example:
 
