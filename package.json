@@ -1,10 +1,17 @@
 {
   "name": "homeserver",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "command-line webserver just like python -m SimpleHTTPServer 3000",
-  "main": "index.js",
+  "main": "lib/index",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/losthanKKK/homeServer.git"
+  },
   "scripts": {
     "test": "test"
+  },
+  "bin": {
+    "homeserver": "bin/homeserver.js"
   },
   "repository": {
     "type": "git",
@@ -16,9 +23,14 @@
   ],
   "author": "Tianxiang Han",
   "license": "ISC",
-  "dependencies": {
-    "connect": "2.8"
+  "engines": {
+    "node": ">= 0.2"
   },
+  "dependencies": {
+    "connect": "2.x"
+  },
+  "devDependencies": {},
+  "preferGlobal": true,
   "bugs": {
     "url": "https://github.com/losthanKKK/homeServer/issues"
   },
