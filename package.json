@@ -27,7 +27,8 @@
     "node": ">= 0.2"
   },
   "dependencies": {
-    "connect": "2.x"
+    "connect": "2.x",
+    "mkdirp": ">=0.3.4 <0.4.0"
   },
   "devDependencies": {},
   "preferGlobal": true,
