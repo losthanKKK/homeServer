@@ -1,6 +1,6 @@
 {
   "name": "homeserver",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "command-line webserver just like python -m SimpleHTTPServer 3000",
   "main": "lib/index",
   "repository": {
