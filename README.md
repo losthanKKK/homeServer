@@ -43,7 +43,7 @@ Now you can watch movies and other files in your web browser by localhost:3000 i
 
 Receiving Files
 ---
-
+Files will NOT be overwritten.
 Files will be received to the filename they were posted as.
 
     cd /tmp
